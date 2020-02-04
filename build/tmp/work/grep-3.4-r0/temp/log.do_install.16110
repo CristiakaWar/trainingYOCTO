@@ -1,0 +1,117 @@
+DEBUG: Executing shell function do_install
+Making install in po
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/po'
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/af.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/af/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/be.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/be/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/bg.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/bg/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ca.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ca/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/cs.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/cs/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/da.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/da/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/de.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/de/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/el.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/el/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/eo.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/eo/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/es.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/es/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/et.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/et/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/eu.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/eu/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/fi.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/fi/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/fr.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/fr/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ga.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ga/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/gl.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/gl/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/he.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/he/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/hr.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/hr/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/hu.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/hu/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/id.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/id/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/it.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/it/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ja.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ja/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ko.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ko/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ky.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ky/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/lt.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/lt/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/nb.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/nb/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/nl.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/nl/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/pa.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/pa/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/pl.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/pl/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/pt.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/pt/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/pt_BR.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/pt_BR/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ro.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ro/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/ru.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/ru/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/sk.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/sk/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/sl.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/sl/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/sr.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/sr/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/sv.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/sv/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/th.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/th/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/tr.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/tr/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/uk.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/uk/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/vi.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/vi/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/zh_CN.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/zh_CN/LC_MESSAGES/grep.mo
+installing /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/zh_TW.gmo as /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/locale/zh_TW/LC_MESSAGES/grep.mo
+if test "grep" = "gettext-tools"; then \
+  /usr/bin/mkdir -p /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/gettext/po; \
+  for file in Makefile.in.in remove-potcdate.sin quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot   Makevars.template; do \
+    /usr/bin/install -c -m 644 /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/po/$file \
+		    /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/gettext/po/$file; \
+  done; \
+  for file in Makevars; do \
+    rm -f /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/gettext/po/$file; \
+  done; \
+else \
+  : ; \
+fi
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/po'
+Making install in lib
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+make  install-am
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+make[3]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+make[3]: Nothing to be done for 'install-exec-am'.
+make[3]: Nothing to be done for 'install-data-am'.
+make[3]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/lib'
+Making install in doc
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/doc'
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/doc'
+make[2]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/info'
+ /usr/bin/install -c -m 644 /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/doc/grep.info '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/info'
+ install-info --info-dir='/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/info' '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/info/grep.info'
+ /usr/bin/mkdir -p '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/man/man1'
+ /usr/bin/install -c -m 644 grep.1 fgrep.1 egrep.1 '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/share/man/man1'
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/doc'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/doc'
+Making install in src
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/src'
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/src'
+ /usr/bin/mkdir -p '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/bin'
+  /usr/bin/install -c grep '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/bin'
+ /usr/bin/mkdir -p '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/bin'
+ /usr/bin/install -c egrep fgrep '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/install/usr/local/bin'
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/src'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/src'
+Making install in tests
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/tests'
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/tests'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/tests'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/tests'
+Making install in gnulib-tests
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make  install-recursive
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+Making install in .
+make[3]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[4]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[3]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build/gnulib-tests'
+make[1]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build'
+make[2]: Entering directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build'
+make[1]: Leaving directory '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/build'
+DEBUG: Shell function do_install finished

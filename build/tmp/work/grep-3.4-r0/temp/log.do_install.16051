@@ -1,0 +1,7 @@
+DEBUG: Executing shell function do_install
+mkdir: cannot create directory ‘’: No such file or directory
+WARNING: exit code 1 from a shell command.
+ERROR: Execution of '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/temp/run.do_install.16051' failed with exit code 1:
+mkdir: cannot create directory ‘’: No such file or directory
+WARNING: exit code 1 from a shell command.
+

@@ -1,0 +1,7 @@
+localename-table.o: \
+ /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/gnulib-tests/localename-table.c \
+ /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

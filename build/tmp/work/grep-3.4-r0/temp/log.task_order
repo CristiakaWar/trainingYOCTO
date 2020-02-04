@@ -1,2 +1,10 @@
 do_fetch (8653): log.do_fetch.8653
 do_unpack (8657): log.do_unpack.8657
+do_configure (8948): log.do_configure.8948
+do_configure (8997): log.do_configure.8997
+do_compile (14914): log.do_compile.14914
+do_install (16051): log.do_install.16051
+do_install (16110): log.do_install.16110
+do_package (16495): log.do_package.16495
+do_package (16670): log.do_package.16670
+do_build (16676): log.do_build.16676

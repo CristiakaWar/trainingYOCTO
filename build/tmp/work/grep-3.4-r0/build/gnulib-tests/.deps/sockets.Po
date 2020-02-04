@@ -1,0 +1,10 @@
+sockets.o: \
+ /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/gnulib-tests/sockets.c \
+ /usr/include/stdc-predef.h ../config.h \
+ /home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/gnulib-tests/sockets.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/grep-3.4/gnulib-tests/sockets.h:

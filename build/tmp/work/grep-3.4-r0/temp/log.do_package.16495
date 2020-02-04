@@ -1,0 +1,9 @@
+DEBUG: Executing shell function do_package
+mkdir: cannot create directory ‘-’: File exists
+mkdir: cannot create directory ‘p’: File exists
+WARNING: exit code 1 from a shell command.
+ERROR: Execution of '/home/yocto/Git/base-training/build/tmp/work/grep-3.4-r0/temp/run.do_package.16495' failed with exit code 1:
+mkdir: cannot create directory ‘-’: File exists
+mkdir: cannot create directory ‘p’: File exists
+WARNING: exit code 1 from a shell command.
+
