@@ -1,0 +1,7 @@
+DEBUG: Executing shell function do_configure
+/home/yocto/Git/base-training/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.6483: 28: cmake: not found
+WARNING: exit code 127 from a shell command.
+ERROR: Execution of '/home/yocto/Git/base-training/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.6483' failed with exit code 127:
+/home/yocto/Git/base-training/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.6483: 28: cmake: not found
+WARNING: exit code 127 from a shell command.
+

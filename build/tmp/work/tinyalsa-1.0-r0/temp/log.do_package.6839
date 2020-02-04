@@ -1,0 +1,7 @@
+DEBUG: Executing shell function do_package
+mkdir: cannot create directory ‘’: No such file or directory
+WARNING: exit code 1 from a shell command.
+ERROR: Execution of '/home/yocto/Git/base-training/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_package.6839' failed with exit code 1:
+mkdir: cannot create directory ‘’: No such file or directory
+WARNING: exit code 1 from a shell command.
+
